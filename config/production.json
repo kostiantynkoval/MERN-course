@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://user1:yMvpe6R5BrpzGq0n@cluster0-i13mf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "Hello, I am trying to write app using MERN stack",
+  "baseUrl": "http://localhost:5000"
+}
